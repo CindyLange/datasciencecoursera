@@ -1,1 +1,2 @@
 # datasciencecoursera
+Doing the project
